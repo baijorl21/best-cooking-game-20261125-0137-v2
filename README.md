@@ -1,5 +1,9 @@
 # Warung Kilat 🍳
 
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/baijorl21/best-cooking-game-20261125-0137-v2/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/baijorl21/best-cooking-game-20261125-0137-v2/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+
 A fast-paced Indonesian street-kitchen cooking game. Customers order from a
 four-dish recipe book, you grill the meat, build each dish on the assembly
 plate, and serve it before the order timer runs out. One shift lasts 2
